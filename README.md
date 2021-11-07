@@ -1,6 +1,6 @@
 # my_mame
 
-'''
+```
 [FOLDER_SETTINGS]
 RootFolderIcon golden
 SubFolderIcon cust2
@@ -245,4 +245,4 @@ xsleena
 yiear
 zigzag
 
-'''
+```
